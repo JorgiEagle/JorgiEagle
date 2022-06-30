@@ -10,6 +10,11 @@ Check out my [website](https://jorgieagle.github.io) on github pages
 - Always open to new ideas, any suggestions welcome
 - Check out my [LinkedIn](https://www.linkedin.com/in/jackwjorgensen/)
 
+## Currently
+
+I'm currently working with the University of Manchester, helping out in the geography department
+I'm helping them start a GitHub for one of their research projects: [UKFDRS](https://ukfdrs.com)
+
 ## Projects
 
 A mix of personal and University projects, so far
