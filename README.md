@@ -12,7 +12,7 @@ Check out my [website](https://jorgieagle.github.io) on github pages
 
 ## Currently
 
-Working on 2023 advent of code
+Learning C++
 
 ## Projects
 
